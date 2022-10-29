@@ -1,7 +1,3 @@
-<!--
-  <h3 align="center">A passionate flutter developer from Indonesia</h3>
--->
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://documentportofoliomarioapasama.firebaseapp.com/](https://documentportofoliomarioapasama.firebaseapp.com/)
@@ -18,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mario pasama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario pasama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mario-pasama-558786225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-pasama-558786225" height="30" width="40" /></a>
 <a href="https://instagram.com/riopasama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riopasama" height="30" width="40" /></a>
 <a href="https://medium.com/@rio.pasama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rio.pasama" height="30" width="40" /></a>
 </p>
