@@ -1,4 +1,4 @@
-<h3 align="center">A passionate flutter developer from Indonesia</h3>
+<h3 align="center">A passionate Flutter developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
