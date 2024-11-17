@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I like designing apps even though it's not very good.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My content:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mario-pasama-558786225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-pasama-558786225" height="30" width="40" /></a>
 <a href="https://instagram.com/_rioatsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rioatsa" height="30" width="40" /></a>
